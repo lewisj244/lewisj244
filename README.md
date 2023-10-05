@@ -1,4 +1,4 @@
-![octocat-1696334619994](https://github.com/lewisj244/lewisj244/assets/146836549/96d45daf-bc8c-4d6e-9d12-e16697f92f97)
+![smalcat](https://github.com/lewisj244/lewisj244/assets/146836549/3f82179a-96fc-4bb2-a044-091554b17d70)
 - 👋 Hi, I’m @lewisj244
 - 👀 I’m interested in running and computor
 - 🌱 I’m currently learning computor science at walpole highschool
