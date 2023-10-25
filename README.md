@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 [captioned scenes](https://studio.code.org/projects/gamelab/tuBf_RbpUXFZpPUQNY653U9YvZx2e89RHuztub0ppp8)
 
-This project depicts an interaction between local boy and his friend underwater
+> This project depicts an interaction between local boy and his friend underwater
 
+[Interactive card]((https://studio.code.org/projects/gamelab/foR4o3apuPeETqyQcnijzHm8nW_omVsHS9i8SCDP6Ls)
 
-
-
+> We used different sprites to create an interactive race day card that uses inputs from the user.
