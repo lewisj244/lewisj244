@@ -26,17 +26,17 @@ You can click the Preview link to take a look at your changes.
 [Side Scroller](https://studio.code.org/projects/gamelab/VM5iybjq1HJj1HIAT04NfiJMgPlcL5njvNTf9WoE7_E)
 > Game with player that needs to avoid the rolling obstacle by jumping
 
-[Plateform Game] (https://studio.code.org/projects/gamelab/4r0qEtezVsEDiVVwKPXdMmDwnXJJmiXQRs4ujoK7cxA)
+[Plateform Game](https://studio.code.org/projects/gamelab/4r0qEtezVsEDiVVwKPXdMmDwnXJJmiXQRs4ujoK7cxA)
 > Game with player that needs to avoid obstacles by jumping and moving side to side while platfroms are falling
 
-[Final Game Project] (https://studio.code.org/projects/gamelab/cBE_h_hGmIhiLofVjfuLPHKMxkkHhd1KjumCq-UHr1w)
+[Final Game Project](https://studio.code.org/projects/gamelab/cBE_h_hGmIhiLofVjfuLPHKMxkkHhd1KjumCq-UHr1w)
 > Flappy bird type game where player needs to go through the pipes
 
-[Hello it's me] (https://ai2.appinventor.mit.edu/#5112281643745280)
+[Hello it's me](https://ai2.appinventor.mit.edu/#5112281643745280)
 > Used app inventor to make app that plays audios when different buttons are clicked
 
-[My Piano] ([https://ai2.appinventor.mit.edu/#5112281643745280](https://ai2.appinventor.mit.edu/#5132221356572672))
+[My Piano]([https://ai2.appinventor.mit.edu/#5112281643745280](https://ai2.appinventor.mit.edu/#5132221356572672))
 > Used app inventor to make functional piano app
 
-[Music Maker] (https://ai2.appinventor.mit.edu/#5919806353965056)
+[Music Maker](https://ai2.appinventor.mit.edu/#5919806353965056)
 > App that allowes the user to use different beats and singing at the same time with recording to make music
