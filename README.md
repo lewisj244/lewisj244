@@ -19,3 +19,24 @@ You can click the Preview link to take a look at your changes.
 [Interactive card](https://studio.code.org/projects/gamelab/foR4o3apuPeETqyQcnijzHm8nW_omVsHS9i8SCDP6Ls)
 
 > We used different sprites to create an interactive race day card that uses inputs from the user.
+
+[Flyer Game](https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
+> Game with player that needs to avoid falling down by jumping while also navigating from obstacles
+
+[Side Scroller](https://studio.code.org/projects/gamelab/VM5iybjq1HJj1HIAT04NfiJMgPlcL5njvNTf9WoE7_E)
+> Game with player that needs to avoid the rolling obstacle by jumping
+
+[Plateform Game] (https://studio.code.org/projects/gamelab/4r0qEtezVsEDiVVwKPXdMmDwnXJJmiXQRs4ujoK7cxA)
+> Game with player that needs to avoid obstacles by jumping and moving side to side while platfroms are falling
+
+[Final Game Project] (https://studio.code.org/projects/gamelab/cBE_h_hGmIhiLofVjfuLPHKMxkkHhd1KjumCq-UHr1w)
+> Flappy bird type game where player needs to go through the pipes
+
+[Hello it's me] (https://ai2.appinventor.mit.edu/#5112281643745280)
+> Used app inventor to make app that plays audios when different buttons are clicked
+
+[My Piano] ([https://ai2.appinventor.mit.edu/#5112281643745280](https://ai2.appinventor.mit.edu/#5132221356572672))
+> Used app inventor to make functional piano app
+
+[Music Maker] (https://ai2.appinventor.mit.edu/#5919806353965056)
+> App that allowes the user to use different beats and singing at the same time with recording to make music
