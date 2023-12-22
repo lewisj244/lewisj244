@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 [Hello it's me](https://ai2.appinventor.mit.edu/#5112281643745280)
 > Used app inventor to make app that plays audios when different buttons are clicked
 
-[My Piano]([https://ai2.appinventor.mit.edu/#5112281643745280](https://ai2.appinventor.mit.edu/#5132221356572672))
+[My Piano]([https://ai2.appinventor.mit.edu/#5112281643745280](https://ai2.appinventor.mit.edu/#5132221356572672)
 > Used app inventor to make functional piano app
 
 [Music Maker](https://ai2.appinventor.mit.edu/#5919806353965056)
