@@ -40,3 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 [Music Maker](https://ai2.appinventor.mit.edu/#5919806353965056)
 > App that allowes the user to use different beats and singing at the same time with recording to make music
+
+[Creative Task]([https://ai2.appinventor.mit.edu/#5919806353965056](https://academy.cs.cmu.edu/sharing/sandyBrownSheep9968))
+> Picture of mouse and cheese made with shapes and text
