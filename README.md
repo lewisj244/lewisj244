@@ -43,3 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 [Creative Task]([https://ai2.appinventor.mit.edu/#5919806353965056](https://academy.cs.cmu.edu/sharing/sandyBrownSheep9968))
 > Picture of mouse and cheese made with shapes and text
+
+[Creative Task2]([https://ai2.appinventor.mit.edu/#5919806353965056]([https://academy.cs.cmu.edu/sharing/sandyBrownSheep9968](https://academy.cs.cmu.edu/sharing/aquamarineBee4626)https://academy.cs.cmu.edu/sharing/aquamarineBee4626))
+> Plane flying in the city! Controlled by user.
